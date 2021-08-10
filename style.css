@@ -100,6 +100,12 @@ ul li:hover::after {
     border-radius: 4px;
     color: whitesmoke;
 }
+#gettoknow{
+  width: 100%;
+  height: 40px;
+  margin-top: 5px;
+  border-color: 1 px navy;
+}
 
 .radio-toolbar label:hover {
   background-color: whitesmoke;
