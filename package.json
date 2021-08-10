@@ -1,0 +1,22 @@
+{
+  "name": "form-validation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atefeh199170/form-validation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atefeh199170/form-validation/issues"
+  },
+  "homepage": "https://github.com/atefeh199170/form-validation#readme",
+  "devDependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
